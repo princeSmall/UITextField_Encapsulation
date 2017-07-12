@@ -9,6 +9,7 @@
 
 3. UserName输入
 
+* 枚举
 
         typedef enum: NSUInteger {
                 EmailType = 0,
