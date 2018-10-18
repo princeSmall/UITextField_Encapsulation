@@ -2,8 +2,8 @@
 //  StellarTextField.m
 //  stellar-wifi
 //
-//  Created by tongle on 2017/7/12.
-//  Copyright © 2017年 qingpei. All rights reserved.
+//  Created by iOS on 2017/7/12.
+//  Copyright © 2017年 iOS. All rights reserved.
 //
 
 #import "StellarTextField.h"
